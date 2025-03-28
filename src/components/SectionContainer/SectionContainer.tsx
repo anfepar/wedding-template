@@ -1,0 +1,1 @@
+export const SectionContainer = () => <div>Section Container</div>
